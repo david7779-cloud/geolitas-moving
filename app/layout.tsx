@@ -1,12 +1,11 @@
-// app/layout.tsx
-import type { Metadata } from "next";
+// app/layout.tsx  (use .js if you’re not on TypeScript)
 import "./globals.css";
-
+import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Geolitas Moving | Affordable, careful local movers – Waltham & Greater Boston",
+  title: "Your Business Name | Tagline",
   description:
-    "Geolitas Moving provides stress-free apartment and house moves, packing, and labor-only help across Waltham & Greater Boston. Transparent pricing. Same-day availability.",
+    "Update this description for your business.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
