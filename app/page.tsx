@@ -4,9 +4,9 @@ import React from "react";
 // QUICK SETTINGS (edit these)
 // =============================
 const SETTINGS = {
-  businessName: "Geolitas Moving",
+  businessName: "Value Movers",
   tagline: "Affordable, careful local movers",
-  phone: "(617) 777-1139",
+  phone: "(617) 555-0142",
   email: "hello@geolitasmoving.com",
   city: "Waltham",
   serviceArea: [
@@ -20,7 +20,7 @@ const SETTINGS = {
     "Brookline",
   ],
   hours: "Mon–Sun 7:00 AM – 8:00 PM",
-  addressLine1: "22 Farnsworth Ave",
+  addressLine1: "123 Main St",
   addressLine2: "Waltham, MA 02451",
   dotNumber: "USDOT #######",
   mcNumber: "MC #######",
